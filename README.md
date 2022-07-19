@@ -56,6 +56,12 @@ for apllying 3x3 **blur**.
     1/9 *    1, 1, 1    =    0.125,  0.25,  0.125 
              1, 1, 1 ]       0.0625, 0.125, 0.0625 ]
                     
+		 
+<br /> 
+<div>
+<img align="center" height="250" width="375" alt="example of kernel" src="https://s6.uupload.ir/files/kernel_ae01.jpg"/>
+</div>
+
 
 <br /><br />
 
