@@ -1,11 +1,33 @@
-<h3 align="center">One of the  <a href="https://github.com/mrl-hsl">MRL Humanoid</a> tasks 👾</h3>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/AmirMwhmd/Blur-image-with-kernel"><img src="https://s6.uupload.ir/files/hsl_0dhk.png" alt="HSL" width="200"></a>
+  <br>
+  MRL Humanoid - Vision Task
+  <br>
+</h1>
 
-<div align="center">
+<b><h4 align="center">.:: Blur imaage with kernel 3*3 ::.</h4></b>
 
-&nbsp;&nbsp;[![Status](https://img.shields.io/badge/status-active-success.svg)]() &nbsp;&nbsp; [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)]() &nbsp;&nbsp; [![License](https://img.shields.io/badge/license-CC0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-	<br>
-&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/) &nbsp;&nbsp;&nbsp;&nbsp;[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://) &nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/) &nbsp;&nbsp;&nbsp;&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/) &nbsp;&nbsp;&nbsp;&nbsp;[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
-</div>
+<p align="center">
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Platform-linux--64-blue" alt="HSL" width="130"></a>
+<a href="https://github.com/AmirMwhmd/Blur-image-with-kernel/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-GNU-red" alt="HSL" width="110"></a>
+<a href="https://github.com/AmirMwhmd/Blur-image-with-kernel/network/members"><img src="https://img.shields.io/badge/Developers-2-lightgrey" alt="HSL" width="100"></a>
+</p>
+
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
+
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
+
+<br />
 
 
 <br /><br />
@@ -16,21 +38,14 @@
 <img align="center" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/></div>
 <br />
 
-
-
-Thanks 👨🏻‍💻 Mr. **Alireza Mohafezatkar** for being the leader and guide of our group for this project.🙏🏻 Group members for this project : 
-👩🏻‍💻**Yegane Almasi Tabar**,👩🏻‍💻 **Elahe Yaghoubi** and 👨🏻‍💻 **Amir Mohammad Parvizi**.
-
-One of the projects of ([MRL-HSL](https://www.bing.com/ck/a?!&&p=b14cb7c50279c4740f8b0c55a298b4824311331e3082172cb69786d536ceb430JmltdHM9MTY1NDkwNTYwMCZpZ3VpZD0yOTg5MWM5ZC1jMzUzLTY3NzUtMGM5Yy0wZDI4YzI4MTY2NDQmaW5zaWQ9NTE2MA&ptn=3&fclid=29891c9d-c353-6775-0c9c-0d28c2816644&u=a1aHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL3ZpZXcvbXJsLWhzbA&ntb=1)) 🤖, Email : [MRL-HSL Email](mrl.humanoidrobots@gmail.com)
-
-### Editor:
+# Editor
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-### Languages & Tools:
+# Languages
 <code>
 <img  height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code> &nbsp;&nbsp; <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> &nbsp;&nbsp; <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
@@ -39,9 +54,9 @@ An image kernel is a small matrix used to apply effects like the ones you might 
 
 for apllying 3x3 **blur**.
 
-                    0.0625, 0.125, 0.0625
-                    0.125,  0.25,  0.125
-                    0.0625, 0.125, 0.0625
+           [ 1, 1, 1       [ 0.0625, 0.125, 0.0625
+    1/9 *    1, 1, 1    =    0.125,  0.25,  0.125 
+             1, 1, 1 ]       0.0625, 0.125, 0.0625 ]
                     
 
 <br /><br />
@@ -51,7 +66,7 @@ Live Demo 🔗 ([click here](https://setosa.io/ev/image-kernels/))
 # Download OpenCV 📥
 Download OpenCV in this site 🔗 ([Download Offline Installers | Source Package Offline Installer | Clone in Terminal](https://opencv.org/releases/))
 
-## Create files and folders 🗳
+## Create files and folders 
 Create a folder for example **Kernel** after downloading **OpenCv**.
 
 ## How to install OpenCV on Ubuntu 📂
@@ -67,7 +82,7 @@ You can install OpenCV using two different ways:
 
 If you want to install the latest stable version of the OpenCV library on your system then, using the source method you can install it. Open the terminal by pressing ‘Ctrl+Alt+t’ and start the installation of OpenCV using the following methods:
 
-## Installing OpenCV from the Ubuntu Repository 📱
+## Installing OpenCV from the Ubuntu Repository 
 
 OpenCV library is available in the official Ubuntu repository in Ubuntu. Update the apt cache by using the following command:
 
@@ -85,7 +100,7 @@ OpenCV library is available in the official Ubuntu repository in Ubuntu. Update 
    python3 -c "import cv2; print(cv2.__version__)"
    ```
    
-## Installing OpenCV from the Source 📲
+## Installing OpenCV from the Source 
 Building the OpenCV library from the source allows you to have the latest available version. It will be optimized for your particular system, and you will have complete control over the build options. This is the recommended way of installing OpenCV.
 
 Perform the following steps to install the latest OpenCV version from the source:
@@ -157,8 +172,9 @@ run this commands in your **ubuntu terminal** for get necessary package.
 
 Report for this task with **PDF** format ([Change Soon](https://www.qt.io/offline-installers))
 
-## License 🤗
+## License 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://licenses.com)
+
 All  sources are without special license and copyright [No license]().
 
 ##  System & Hardware 🛠
@@ -175,13 +191,11 @@ All  sources are without special license and copyright [No license]().
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 ## UML diagrams 📊
-
 
 And this will produce a flow chart:
 
@@ -192,3 +206,4 @@ A --> C(Kernel 3*3)
 C --> E
 B --> E{image with blur filter}
 ```
+
