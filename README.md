@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<b><h4 align="center">.:: Blur imaage with kernel 3*3 ::.</h4></b>
+<b><h4 align="center">.:: Blur image with kernel 3*3 ::.</h4></b>
 
 <p align="center">
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
@@ -14,18 +14,6 @@
 <a href="https://github.com/AmirMwhmd/Blur-image-with-kernel/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-GNU-red" alt="HSL" width="110"></a>
 <a href="https://github.com/AmirMwhmd/Blur-image-with-kernel/network/members"><img src="https://img.shields.io/badge/Developers-2-lightgrey" alt="HSL" width="100"></a>
 </p>
-
-<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/)
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
 
 
 <br />
