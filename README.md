@@ -34,6 +34,25 @@ Click here for 🔗 :
 <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-line.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
 </code>
 
+## Installation
+
+1. Install Python 3.x from the official website: [Python](https://www.python.org/downloads/)
+2. Install NumPy library using pip:
+   ```
+   pip install numpy
+   ```
+## Usage
+
+1. Clone or download the source code from this repository.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Place your input image in the project directory.
+4. Open the `image_filtering.py` file in a text editor and modify the `input_image_filename` variable to match the filename of your input image.
+5. Modify the `kernel` variable to change the kernel values if desired.
+6. Use the following command to run the program:
+   ````
+   python fileName.py
+   ``````
+7. The output image will be saved in the project directory with the filename `output.jpg`.
 
 ## Image Kernels ⚙️
 An image kernel is a small matrix used to apply effects like the ones you might find in Photoshop or Gimp, such as blurring, sharpening, outlining or embossing. They're also used in machine learning for 'feature extraction', a technique for determining the most important portions of an image. In this context the process is referred to more generally as "convolution" (see: [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network))
